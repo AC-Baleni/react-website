@@ -1,0 +1,12 @@
+.title{
+    width: 100%;
+    text-align: center;
+}
+.title h3{
+    color: #081a44b4;
+    font-size: 30px;
+}
+.title p{
+    font-size: larger;
+    font-weight: bold;
+}

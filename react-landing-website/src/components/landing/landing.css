@@ -1,0 +1,33 @@
+.container{
+    background-color: rgba(60, 136, 223, 0.822);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.content{
+    text-align: center;
+}
+.content h1{
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+.content .signUp-btn{
+    padding: 10px 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    border: none;
+    color: #fff;
+    background-color: #131824b4;
+    transition: 0.3s;
+}
+.content .signUp-btn:hover{
+    background-color: #4c5468b4;
+    color: #fff;
+    cursor: pointer;
+}
